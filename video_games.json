@@ -4,7 +4,7 @@
 "title": "Cod",
 "genre": "Shooter",
 "type":  "FPS",
-"covert_art": 
+"covert_art": ""
 },
 
 {
@@ -12,7 +12,7 @@
 "title": "GTA",
 "genre": "Crime",
 "type":  "Third_Person",
-"covert_art": 
+"covert_art": ""
 },
   
 {
@@ -20,6 +20,6 @@
 "title": "Halo",
 "genre": "Shooter",
 "type":  "FPS",
-"covert_art": 
+"covert_art": ""
 },
 ]
